@@ -19,3 +19,4 @@ MPNotificationView_Applicaster
 FLAnimatedImage_Applicaster
 Google-Mobile-Ads-SDK
 Bolts
+FirebaseAnalytics
