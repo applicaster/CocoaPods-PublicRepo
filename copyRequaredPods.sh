@@ -1,7 +1,7 @@
 #!/bin/sh
 
-cocoaPodsRepoPath=~/.cocoapods/repos/master/Specs/
-applicasterPublicRepoPath=./Specs/
+cocoaPodsRepoPath=~/.cocoapods/repos/master/Specs
+applicasterPublicRepoPath=./Specs
 
 echo "Updating latest public repo of cocopods\n"
 pod repo update
@@ -21,11 +21,10 @@ getArray() {
 echo "Retrieving items from the list\n"
 getArray "./itemList.sh"
 
-
 echo $cocoaPodsRepoPath
 echo $applicasterPublicRepoPath
 
-rm -rf applicasterPublicRepoPath
+rm -rf $applicasterPublicRepoPath/*
 
 for folderName in "${array[@]}"
 do
@@ -34,3 +33,4 @@ do
 
     cp -r $cocoaPodsRepoPath/$folderName $applicasterPublicRepoPath/$folderName
 done
+
