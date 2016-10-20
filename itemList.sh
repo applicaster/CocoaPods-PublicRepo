@@ -13,3 +13,4 @@ FBNotifications
 SSZipArchive
 Firebase
 GoogleAds-IMA-iOS-SDK-For-AdMob
+AppoxeeSDK

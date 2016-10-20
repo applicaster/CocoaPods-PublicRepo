@@ -24,6 +24,8 @@ getArray "./itemList.sh"
 echo $cocoaPodsRepoPath
 echo $applicasterPublicRepoPath
 
+echo "Removing old folder\n"
+
 rm -rf $applicasterPublicRepoPath/*
 
 for folderName in "${array[@]}"
@@ -33,4 +35,3 @@ do
 
     cp -r $cocoaPodsRepoPath/$folderName $applicasterPublicRepoPath/$folderName
 done
-
