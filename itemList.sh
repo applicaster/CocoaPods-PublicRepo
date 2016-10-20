@@ -22,3 +22,4 @@ Bolts
 FirebaseAnalytics
 FirebaseInstanceID
 GoogleSymbolUtilities
+GoogleUtilities
