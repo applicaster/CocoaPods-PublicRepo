@@ -21,3 +21,4 @@ Google-Mobile-Ads-SDK
 Bolts
 FirebaseAnalytics
 FirebaseInstanceID
+GoogleSymbolUtilities
