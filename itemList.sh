@@ -25,3 +25,4 @@ GoogleSymbolUtilities
 GoogleUtilities
 GoogleInterchangeUtilities
 CoolaPod
+ComScore-iOS
