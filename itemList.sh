@@ -15,3 +15,4 @@ Firebase
 GoogleAds-IMA-iOS-SDK-For-AdMob
 AppoxeeSDK
 SHMKit_Applicaster
+MPNotificationView_Applicaster
