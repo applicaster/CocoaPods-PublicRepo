@@ -18,3 +18,4 @@ SHMKit_Applicaster
 MPNotificationView_Applicaster
 FLAnimatedImage_Applicaster
 Google-Mobile-Ads-SDK
+Bolts
