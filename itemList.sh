@@ -27,3 +27,4 @@ GoogleInterchangeUtilities
 CoolaPod
 ComScore-iOS
 GoogleAnalytics
+Mixpanel
