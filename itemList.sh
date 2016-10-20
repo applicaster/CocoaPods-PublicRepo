@@ -20,3 +20,4 @@ FLAnimatedImage_Applicaster
 Google-Mobile-Ads-SDK
 Bolts
 FirebaseAnalytics
+FirebaseInstanceID
