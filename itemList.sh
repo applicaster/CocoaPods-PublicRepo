@@ -26,3 +26,4 @@ GoogleUtilities
 GoogleInterchangeUtilities
 CoolaPod
 ComScore-iOS
+GoogleAnalytics
